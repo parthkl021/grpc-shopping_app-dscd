@@ -1,3 +1,4 @@
+This work is part of our DSCD courework. There are 3 contributors for this work Sachin, Rishav and Me
 # Shopping App using gRPC
 A distributed application that simulates an online marketplace. It uses gRPC for communication between the server and client applications.
 
